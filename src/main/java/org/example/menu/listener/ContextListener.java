@@ -6,11 +6,11 @@ import jakarta.servlet.ServletContext;
 import jakarta.servlet.ServletContextEvent;
 import jakarta.servlet.ServletContextListener;
 import jakarta.servlet.annotation.WebListener;
-import org.example.crudmenu.dao.ProductDao;
-import org.example.crudmenu.dao.UserDao;
-import org.example.crudmenu.service.LoginAttemptsService;
-import org.example.crudmenu.service.ProductService;
-import org.example.crudmenu.service.UserService;
+import org.example.menu.dao.ProductDao;
+import org.example.menu.dao.UserDao;
+import org.example.menu.service.LoginAttemptsService;
+import org.example.menu.service.ProductService;
+import org.example.menu.service.UserService;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
 import java.io.File;

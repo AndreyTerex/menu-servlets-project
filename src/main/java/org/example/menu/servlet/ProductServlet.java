@@ -6,9 +6,9 @@ import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
-import org.example.crudmenu.entity.Product;
-import org.example.crudmenu.entity.User;
-import org.example.crudmenu.service.ProductService;
+import org.example.menu.entity.Product;
+import org.example.menu.entity.User;
+import org.example.menu.service.ProductService;
 
 import java.io.IOException;
 import java.util.List;

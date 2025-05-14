@@ -6,8 +6,8 @@ import jakarta.servlet.ServletConfig;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.*;
 import jakarta.servlet.annotation.*;
-import org.example.crudmenu.service.LoginAttemptsService;
-import org.example.crudmenu.service.UserService;
+import org.example.menu.service.LoginAttemptsService;
+import org.example.menu.service.UserService;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
 @WebServlet(urlPatterns = "/login")

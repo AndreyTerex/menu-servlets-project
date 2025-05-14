@@ -1,7 +1,7 @@
 package org.example.menu.service;
 
-import org.example.crudmenu.dao.ProductDao;
-import org.example.crudmenu.entity.Product;
+import org.example.menu.dao.ProductDao;
+import org.example.menu.entity.Product;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
 import java.util.List;

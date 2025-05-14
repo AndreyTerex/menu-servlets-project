@@ -3,7 +3,7 @@ package org.example.menu.service;
 import jakarta.servlet.http.HttpServletResponse;
 import lombok.Data;
 import lombok.SneakyThrows;
-import org.example.crudmenu.entity.LoginAttempt;
+import org.example.menu.entity.LoginAttempt;
 
 import java.time.LocalDateTime;
 import java.util.Map;

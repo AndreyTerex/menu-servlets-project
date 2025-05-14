@@ -3,7 +3,7 @@ package org.example.menu.dao;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.*;
-import org.example.crudmenu.entity.User;
+import org.example.menu.entity.User;
 
 import java.io.File;
 import java.util.List;

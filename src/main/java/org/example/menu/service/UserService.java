@@ -1,8 +1,8 @@
 package org.example.menu.service;
 
 import lombok.AllArgsConstructor;
-import org.example.crudmenu.dao.UserDao;
-import org.example.crudmenu.entity.User;
+import org.example.menu.dao.UserDao;
+import org.example.menu.entity.User;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
 import java.util.List;

@@ -5,7 +5,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.AllArgsConstructor;
 import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;
-import org.example.crudmenu.entity.Product;
+import org.example.menu.entity.Product;
 
 import java.io.File;
 import java.util.List;
